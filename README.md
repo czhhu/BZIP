@@ -1,2 +1,2 @@
 # BZIP
-To analysis zeo-inflated model using INLA
+Bayesian Analysis of zero-inflated poisson models using Integrated Nested Laplace Approximation
