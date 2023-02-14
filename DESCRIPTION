@@ -1,0 +1,17 @@
+Package: BZIP
+Type: Package
+Title: Bayesian Analysis of zero-inflated poisson models using Integrated Nested Laplace Approximation.
+Version: 0.1.0
+Date: 2022-11-20
+Author: c(person('cao peihua',email = 'cphcc@smu.edc.cn')
+          person('chen zhenhu',email = '2728291561@qq.com')
+          )
+Maintainer: chen<chen@SMU.EDU>
+Depends: INLA
+Description: Using Bayesian method to analysis zero-inflated problems base on package INLA.
+Because the package INLA is too complex to use,so we choose a part of the package as a new R package to analyse
+zero-inflated problem.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.2
