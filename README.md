@@ -1,2 +1,2 @@
 # BZIP
-To analysis zeo-inflayed model using INLA
+To analysis zeo-inflated model using INLA
